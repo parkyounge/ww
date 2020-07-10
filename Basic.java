@@ -24,8 +24,8 @@ public class Basic extends HttpServlet{
 		
 		//클라이언트에 응답하기 위한 메소드 호출
 		dis.forward(req,resp);
+
 		
-		
-		
+		hello world;
 	}//end doGet()
 }//endClass
