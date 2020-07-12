@@ -27,5 +27,6 @@ public class Basic extends HttpServlet{
 
 		
 		hello world;
+		hello java;
 	}//end doGet()
 }//endClass
