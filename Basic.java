@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 //webdemo/servletdemo/part01.Basic
 @WebServlet("/basic")
 public class Basic extends HttpServlet{
-아무것도 고쳐지지 않았다
+수정이ㅗ디었습니다
+	
 	}//end doGet()
 }//endClass
