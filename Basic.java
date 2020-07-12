@@ -14,19 +14,9 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/basic")
 public class Basic extends HttpServlet{
 
-	@Override
-	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
-		String path="/servletview/part01/nameview.jsp";
-		
-		//path는 클라이언트에 응답할 페이지
-		RequestDispatcher dis =req.getRequestDispatcher(path);
-		
-		//클라이언트에 응답하기 위한 메소드 호출
-		dis.forward(req,resp);
-
-		
+	
 		hello world;
 		hello java;
+qkrdmssladl rhcuTdjdy?
 	}//end doGet()
 }//endClass
